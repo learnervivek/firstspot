@@ -24,8 +24,13 @@ First spot is designed for tourists so they can now explore new destinations whe
 ### Objective of the Work
 
 The primary aim of our website is to make it easy for travelers to explore, manage plans, and connect with popular tourist guides, ensuring a trip that is easy, convenient, and safe.
+<h2>Technology Used🚀</h2>
 
-
+<p>
+  <a href="https://www.w3schools.com/html/"> <img src="https://img.icons8.com/color/70/000000/html-5--v1.png" alt="HTML" /></a>
+  <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/70/000000/css3.png" alt="CSS" /></a>
+  <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/70/000000/javascript--v1.png" alt="JS" /></a>
+</p>
 # ⭐ How to get started with open source?
 <img src="https://github.com/Vi1234sh12/Face-X/blob/master/.github/Assests/isometric.png" height="290px" align="right"/>
 
